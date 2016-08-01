@@ -1,0 +1,4 @@
+load:
+  - src/greet.js
+test:
+  - spec/greetSpec.js
